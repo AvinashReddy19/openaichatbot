@@ -1,1 +1,1 @@
-# skindiseases_dataset
+# openai_package for prompt generation
